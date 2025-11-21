@@ -1,0 +1,2 @@
+# Jobs_Applier_AI_Agent_AIHawk
+AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.  Topics
